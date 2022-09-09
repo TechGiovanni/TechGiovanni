@@ -35,7 +35,6 @@ Have an interesting project? I'm always open to new projects and experiences, so
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgiovanni&show_icons=true&locale=en&layout=compact" alt="techgiovanni" /></p>
 <br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techgiovanni&show_icons=true&locale=en" alt="techgiovanni" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techgiovanni&" alt="techgiovanni" /></p>

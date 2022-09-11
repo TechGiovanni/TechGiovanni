@@ -8,7 +8,7 @@ Backend Developer
 
 * 🌍  I'm based in Montreal, QC
 * ✉️  You can contact me at [giovanni-mtl@hotmail.com](mailto:giovanni-mtl@hotmail.com)
-* 🧠  I'm learning Python, Django, API's, Data structures and Algorityms
+* 🧠  I'm learning Python, Django, API's, Data structures and Algorithyms
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
 ### Skills

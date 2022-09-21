@@ -8,6 +8,7 @@ Backend Developer
 
 * 🌍  I'm based in Montreal, QC
 * 🎉  View all my projects here https://troopl.com/techgiovanni
+* 🅱️  View My Medium Blog here https://medium.com/@techgiovanni
 * ✉️  You can contact me at [giovanni-mtl@hotmail.com](mailto:giovanni-mtl@hotmail.com)
 * 🧠  I'm learning Python, Django, API's, Data structures and Algorithms
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:

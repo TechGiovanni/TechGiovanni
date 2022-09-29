@@ -10,7 +10,7 @@ Backend Developer
 * 🎉  View all my projects here https://troopl.com/techgiovanni
 * 🅱️  View My Medium Blog here https://medium.com/@techgiovanni
 * ✉️  You can contact me at [giovanni-mtl@hotmail.com](mailto:giovanni-mtl@hotmail.com)
-* 🧠  I'm learning Python, React, Ruby on Rails, API's, Data structures and Algorithms
+* 🧠  I'm learning Python, React, Ruby on Rails, API's, Data Structures and Algorithms
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
 ### Skills

@@ -2,6 +2,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/88079608/189420978-cb361441-3322-4204-99a8-aacfc47dbf7a.gif)
 Hi 👋 My name is Giovanni Reid
 ==============================
+<h1 align="center">Hi 👋, I'm Giovanni Reid</h1>
+<h3 align="center">Full Stack Developer.</h3>
 
 Backend Developer
 -----------------
@@ -13,11 +15,6 @@ Backend Developer
 * 🧠  I'm learning Python, React, Ruby on Rails, API's, Data Structures and Algorithms
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
-<h1 align="center">Hi 👋, I'm Giovanni Reid</h1>
-<h3 align="center">Full Stack Developer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techgiovanni" alt="techgiovanni" /></a> </p>
-
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/techgiovanni](https://troopl.com/techgiovanni)
@@ -27,6 +24,8 @@ Backend Developer
 - 📫 How to reach me **giovanni-mtl@hotmail.com**
 
 - ⚡ Fun fact **I'm always reading something**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techgiovanni" alt="techgiovanni" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

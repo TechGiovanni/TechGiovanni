@@ -7,6 +7,7 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Montreal, QC
+
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
 - 🌱 I’m currently learning **Ruby on Rails**

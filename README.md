@@ -3,12 +3,10 @@
 <h1 align="center">Hi 👋, I'm Giovanni Reid</h1>
 <h3 align="center">Full Stack Developer.</h3>
 
-Backend Developer
+🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 -----------------
 
 * 🌍  I'm based in Montreal, QC
-
-* 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
 - 🌱 I’m currently learning **Ruby on Rails**
 

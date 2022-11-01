@@ -7,10 +7,6 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Montreal, QC
-* 🎉  View all my projects here https://troopl.com/techgiovanni
-* 🅱️  View My Medium Blog here https://medium.com/@techgiovanni
-* ✉️  You can contact me at [giovanni-mtl@hotmail.com](mailto:giovanni-mtl@hotmail.com)
-* 🧠  I'm learning Python, React, Ruby on Rails, API's, Data Structures and Algorithms
 * 🤝  I'm open to collaborating on new projects and experiences, so let's connect:
 
 - 🌱 I’m currently learning **Ruby on Rails**

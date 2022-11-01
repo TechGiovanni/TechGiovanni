@@ -1,6 +1,6 @@
 <!-- [![MasterHead]() -->
 ![MasterHead](https://user-images.githubusercontent.com/88079608/189420978-cb361441-3322-4204-99a8-aacfc47dbf7a.gif)
-<h1 align="center">I'm Giovanni 🙂</h1>
+<h1 align="center"> 😊 Hi, I'm Giovanni</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -23,6 +23,8 @@
 - 📫 How to reach me **giovanni-mtl@hotmail.com**
 
 - ⚡ Fun fact **I'm always reading something**
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techgiovanni" alt="techgiovanni" /></a> </p>
 

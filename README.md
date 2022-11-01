@@ -25,10 +25,12 @@
 - ⚡ Fun fact **I'm always reading something**
 
 <br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techgiovanni" alt="techgiovanni" /></a> </p>
 
-
+<br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techgiovanni&show_icons=true&locale=en&layout=compact" alt="techgiovanni" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=techgiovanni&show_icons=true&locale=en" alt="techgiovanni" /></p>

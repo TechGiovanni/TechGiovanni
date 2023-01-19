@@ -17,7 +17,7 @@
 
 <p> - 🌱 I’m currently improving my **React, Node.js/Express** skills</p>
 
-<p> - 💝 Building my Current Personal Project: https://colorizedpattern.com</p>
+<!-- <p> - 💝 Building my Current Personal Project: https://colorizedpattern.com</p> -->
 
 <p>- 👨‍💻 All of my projects are available at [https://troopl.com/techgiovanni](https://troopl.com/techgiovanni)</p>
 

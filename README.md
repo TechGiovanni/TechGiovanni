@@ -19,7 +19,7 @@
 
 <!-- <p> - 💝 Building my Current Personal Project: https://colorizedpattern.com</p> -->
 
-<p>- 👨‍💻 All of my projects are available at [(https://techgiovanni.me/)]</p>
+<p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank"> TechGiovanni.me</a></p>
 
 <p>- 📝 I regularly write articles on [https://medium.com/@techgiovanni](https://medium.com/@techgiovanni)</p>
 

@@ -15,13 +15,13 @@
 
 <p>* 🌍  I'm based in Montreal, QC</p>
 
-<p> - 🌱 I’m currently improving my **React, Node.js/Express** skills</p>
+<p> - 🌱 I’m currently Building projects using **React, Node.js, Express, MongoDb, FireBase** skills</p>
 
 <!-- <p> - 💝 Building my Current Personal Project: https://colorizedpattern.com</p> -->
 
-<p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank"> TechGiovanni.me</a></p>
+<p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank" >TechGiovanni.me</a></p>
 
-<p>- 📝 I regularly write articles on [https://medium.com/@techgiovanni](https://medium.com/@techgiovanni)</p>
+<p>- 📝 I regularly write articles on <a href="https://medium.com/@techgiovanni" target="_blank" >Medium/TechGiovanni.com</a></p>
 
 <p>- 📫 How to reach me **giovanni-mtl@hotmail.com**</p>
 

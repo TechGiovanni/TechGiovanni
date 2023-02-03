@@ -17,7 +17,7 @@
 
 <p> - 🌱 I’m currently Building projects using **React, Node.js, Express, MongoDb, FireBase** skills</p>
 
-<!-- <p> - 💝 Building my Current Personal Project: https://colorizedpattern.com</p> -->
+<p> - 💝 Building my Current Personal Project: https://fanfizzle.space</p>
 
 <p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank" >TechGiovanni.me</a></p>
 

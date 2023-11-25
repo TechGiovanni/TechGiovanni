@@ -1,5 +1,5 @@
 <!-- [![MasterHead]() -->
-![MasterHead](https://user-images.githubusercontent.com/88079608/189420978-cb361441-3322-4204-99a8-aacfc47dbf7a.gif)
+![MasterHead]()
 <h1 align="center"> 😊 Hi, I'm Giovanni</h1>
 
 <h3 align="center">Connect with me:</h3>
@@ -21,7 +21,7 @@
 
 <!-- <p> - 💝 Building my Current Personal Project: https://fanfizzle.space</p> -->
 
-<p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank" >TechGiovanni.me</a></p>
+<!-- <p>- 👨‍💻 All of my projects are available at <a href="https://techgiovanni.me/" target="_blank" >TechGiovanni.me</a></p> -->
 
 <p>- 📝 I regularly write articles on <a href="https://medium.com/@techgiovanni" target="_blank" >Medium/TechGiovanni.com</a></p>
 

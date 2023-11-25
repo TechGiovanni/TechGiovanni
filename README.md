@@ -1,5 +1,5 @@
 <!-- [![MasterHead]() -->
-![MasterHead]()
+<!-- ![MasterHead]() -->
 <h1 align="center"> 😊 Hi, I'm Giovanni</h1>
 
 <h3 align="center">Connect with me:</h3>

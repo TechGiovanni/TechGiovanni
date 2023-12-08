@@ -8,11 +8,11 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Active Directory</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implementing Active Directory](https://github.com/TechGiovanni/Active-Directory)
 
 - <b>Microsoft Azure</b>
   <ul>
-    <li><a href="https://youtube.com" target="_blank" rel="noreferrer">Active Directory</a></li>
+    <li><a href="https://github.com/TechGiovanni/Active-Directory" target="_blank" rel="noreferrer">Active Directory</a></li>
   </ul>
 
 <section>

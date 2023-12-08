@@ -9,15 +9,10 @@
 
 - <b>Active Directory</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-    
-- <b>PowerShell</b>
-    - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-    - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 - <b>Microsoft Azure</b>
   <ul>
     <li><a href="https://youtube.com" target="_blank" rel="noreferrer">Active Directory</a></li>
-    <li><a href="https://youtube.com" target="_blank" rel="noreferrer">Configuring a virtual Machine</a></li>
   </ul>
 
 <section>

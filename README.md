@@ -1,6 +1,6 @@
 <!-- [![MasterHead]() -->
 <!-- ![MasterHead]() -->
-<h1 align="center"> 😊 Hi, I'm Giovanni</h1>
+<h1 align="center"> 😊 Hi, I'm Giovanni Reid, an <a href="https://www.linkedin.com/in/giovanni-reid" target="_blank" rel="noreferrer">IT Specialist</a></h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -9,6 +9,15 @@
 </p>
 
 
+<h3 align="center">Information Technology Projects:</h3>
+
+
+
+Microsoft Azure:
+  <ul>
+    <li><a href="https://youtube.com" target="_blank" rel="noreferrer">Active Directory</a></li>
+    <li><a href="https://youtube.com" target="_blank" rel="noreferrer">Configuring a virtual Machine</a></li>
+  </ul>
 
 ---
 <h3 align="center">Languages and Tools:</h3>

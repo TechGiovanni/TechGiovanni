@@ -5,7 +5,7 @@
 <h2> 👨‍💻 IT Projects:</h2>
 
 - <b>Group Policy and Permissions</b>
-  - [File Sharing over the Network, create Users and Group Permissions and mapped drives](https://github.com/TechGiovanni/File-Share-and-Permissions)
+  - [File Sharing and Group Permissions](https://github.com/TechGiovanni/File-Share-and-Permissions)
 
 - <b>Active Directory</b>
   - [Implementing Active Directory](https://github.com/TechGiovanni/Active-Directory)

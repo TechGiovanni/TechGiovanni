@@ -2,18 +2,34 @@
 <!-- ![MasterHead]() -->
 <h1> 😊 Hi, I'm Giovanni Reid! <a href="https://www.linkedin.com/in/giovanni-reid/"> - IT Professional</a></h1>
 
-<h2> 👨‍💻 IT Projects:</h2>
+<h2> 👨‍💻 Information Technology Projects:</h2>
 
-- <b>Group Policy and Permissions</b>
-  - [File Sharing and Group Permissions](https://github.com/TechGiovanni/File-Share-and-Permissions)
+<ul dir="auto">
+  <li>
+    <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TheMrBroderick/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
+      <li><a href="https://github.com/TheMrBroderick/post-install-config">osTicket: Post-Installation Configuration</a></li>
+      <li><a href="https://github.com/TheMrBroderick/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+    </ul>
+  </li>
+    <br>
+  <li>
+    <b>Active Directory</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TheMrBroderick/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="https://github.com/TheMrBroderick/resetting-passwords">Resetting Passwords and Unlocking Accounts</a></li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <b>File Sharing and Group Permissions</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/File-Share-and-Permissions">Configured File Sharing on the Network and Group Permissions</a></li>
+    </ul>
+  </li>
+</ul>
 
-- <b>Active Directory</b>
-  - [Implementing Active Directory](https://github.com/TechGiovanni/Active-Directory)
-
-- <b>Microsoft Azure</b>
-  <ul>
-    <li><a href="https://github.com/TechGiovanni/Active-Directory" target="_blank" rel="noreferrer">Active Directory</a></li>
-  </ul>
 
 <section>
 <h2> 📃 Certifications:</h2>

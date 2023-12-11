@@ -9,16 +9,16 @@
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
-      <li><a href="https://github.com/TheMrBroderick/post-install-config">osTicket: Post-Installation Configuration</a></li>
-      <li><a href="https://github.com/TheMrBroderick/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Post-Installation Configuration</a></li>
+      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
     <br>
   <li>
     <b>Active Directory</b>
     <ul dir="auto">
-      <li><a href="https://github.com/TheMrBroderick/configure-ad">Configuring On-premises Active Directory within Azure VMs</a></li>
-      <li><a href="https://github.com/TheMrBroderick/resetting-passwords">Resetting Passwords and Unlocking Accounts</a></li>
+      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">Resetting Passwords and Unlocking Accounts</a></li>
     </ul>
   </li>
   <br>

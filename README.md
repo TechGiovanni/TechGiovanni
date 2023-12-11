@@ -10,7 +10,7 @@
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
       <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li>
-      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Ticket Lifecycle Examples</a></li>
+      <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
     <br>

@@ -1,6 +1,6 @@
 <!-- [![MasterHead]() -->
 <!-- ![MasterHead]() -->
-<h1> 😊 Hi, I'm Giovanni Reid! <br/><a href="https://www.linkedin.com/in/giovanni-reid/">IT Professional</a>, <a href="https://www.youtube.com/channel/UCxcH0qsQPTrpK9s2aW4jGHw">YouTuber</a></h1>
+<h1> 😊 Hi, I'm Giovanni Reid! <br/><a href="https://www.linkedin.com/in/giovanni-reid/">IT Professional</a></h1>
 
 <h2> 👨‍💻 IT Projects:</h2>
 

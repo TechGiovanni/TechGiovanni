@@ -14,6 +14,7 @@
     </ul>
   </li>
     <br>
+  <!--
   <li>
     <b>Active Directory</b>
     <ul dir="auto">
@@ -21,6 +22,7 @@
       <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">Resetting Passwords and Unlocking Accounts</a></li>
     </ul>
   </li>
+  -->
   <br>
   <li>
     <b>File Sharing and Group Permissions</b>

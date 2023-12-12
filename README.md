@@ -14,15 +14,15 @@
     </ul>
   </li>
     <br>
-  <!--
-  <li>
+    <li>
     <b>Active Directory</b>
     <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">Configuring On-premises Active Directory within Azure VMs</a></li>
-      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">Resetting Passwords and Unlocking Accounts</a></li>
+      <li><a href="">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="">Resetting Passwords and Unlocking Accounts</a></li>
     </ul>
+      
   </li>
-  -->
+ 
   <br>
   <li>
     <b>File Sharing and Group Permissions</b>

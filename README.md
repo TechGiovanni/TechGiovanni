@@ -30,15 +30,18 @@
       <li><a href="https://github.com/TechGiovanni/File-Share-and-Permissions">Configured File Sharing on the Network and Group Permissions</a></li>
     </ul>
   </li>
-</ul>
 
-
- <li>
+  <br>
+   <li>
     <b>Analyzed Network Traffic in Wireshark</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Wireshark-Network-Analysis">Configuring Wireshark and analyzing the network</a></li>
     </ul>
   </li>
+</ul>
+
+
+
 
 <section>
 <h2> 📃 Certifications:</h2>

@@ -17,8 +17,8 @@
     <li>
     <b>Active Directory</b>
     <ul dir="auto">
-      <li><a href="">Configuring On-premises Active Directory within Azure VMs</a></li>
-      <li><a href="">Resetting Passwords and Unlocking Accounts</a></li>
+      <li><a href="https://github.com/TechGiovanni/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlocking-Accounts">Resetting Passwords and Unlocking Accounts</a></li>
     </ul>
       
   </li>

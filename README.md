@@ -32,12 +32,12 @@
   </li>
 
   <br>
-   <li>
+<!--    <li>
     <b>Analyzed Network Traffic in Wireshark</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Wireshark-Network-Analysis">Configuring Wireshark and analyzing the network</a></li>
     </ul>
-  </li>
+  </li> -->
 </ul>
 
 

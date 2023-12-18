@@ -46,7 +46,7 @@
 <section>
 <h2> 📃 Certifications:</h2>
 <img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" />
-<img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://github.com/TechGiovanni/Certifications/blob/main/Screen%20Shot%202023-12-17%20at%208.14.26%20PMa.png?raw=true" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Giovannireid-1233/72E683A2441F959B?sharingId=DC25E13727945CAB"><img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://github.com/TechGiovanni/Certifications/blob/main/Screen%20Shot%202023-12-17%20at%208.14.26%20PMa.png?raw=true" /></a>
 
 </section>
 

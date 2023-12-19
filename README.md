@@ -19,7 +19,7 @@
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a></li>
       <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li>
-      <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Configure DHCP and DNS on-Premises Active Directory</a></li>
+      <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>
     </ul>
       
   </li>

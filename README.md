@@ -51,7 +51,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/d3011b51-5b7c-4d79-8e8f-762b72809200/public_url">
-  <img align="left" width="150" height="150" alt="Giovanni's ComTIA Security+ Certification" width="22px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.pnge" />
+  <img align="left" width="150" height="150" alt="Giovanni's ComTIA Security+ Certification" width="22px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 </a>
   
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Giovannireid-1233/72E683A2441F959B?sharingId=DC25E13727945CAB">

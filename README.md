@@ -50,7 +50,7 @@
 <img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" />
   </a>
 
-  <a href="https://www.credly.com/badges/d3011b51-5b7c-4d79-8e8f-762b72809200/public_url">
+  <a href="https://www.credly.com/users/giovanni-reid">
   <img align="left" width="150" height="150" alt="Giovanni's ComTIA Security+ Certification" width="22px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
 </a>
   

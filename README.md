@@ -54,6 +54,11 @@
   <img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://github.com/TechGiovanni/Certifications/blob/main/Screen%20Shot%202023-12-17%20at%208.14.26%20PMa.png?raw=true" />
 </a>
 
+<a href="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png">
+  <img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://github.com/TechGiovanni/Certifications/blob/main/Screen%20Shot%202023-12-17%20at%208.14.26%20PMa.png?raw=true" />
+</a>
+
+
 </section>
 
 <br>

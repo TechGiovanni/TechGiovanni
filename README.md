@@ -25,14 +25,7 @@
     </ul>
       
   </li>
- 
-  <br>
-  <li>
-    <b>File Sharing and Group Permissions</b>
-    <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/File-Share-and-Permissions">Configured File Sharing on the Network and Group Permissions</a></li>
-    </ul>
-  </li>
+
 
   <br>
 <!--    <li>

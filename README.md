@@ -103,8 +103,6 @@
 
 <p>- 📝 I mostly write articles on <a href="https://medium.com/@techgiovanni" target="_blank" >Medium/TechGiovanni.com</a></p>
 
-<p>- 📫 How to reach me **giovanni-mtl@hotmail.com**</p>
-
 <p>- ⚡ Fun fact ** I'm always reading something or learning something new ** </p>
 
 <br>

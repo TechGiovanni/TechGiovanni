@@ -1,6 +1,6 @@
 <!-- [![MasterHead]() -->
 <!-- ![MasterHead]() -->
-<h1> 😊 Hi, I'm Giovanni Reid!
+# 😊 Hi, I'm Giovanni Reid!
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
@@ -11,10 +11,10 @@ My journey in Computer support and Networks has led me to develop a passion for 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

@@ -77,13 +77,14 @@ My journey in Computer support and Networks has led me to develop a passion for 
   <img align="left" width="150" height="150" alt="Giovanni's ComTIA A+ Certification" width="22px" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" />
     </a>
   
-    <a href="https://www.credly.com/badges/d3011b51-5b7c-4d79-8e8f-762b72809200">
+  <a href="https://www.credly.com/badges/d3011b51-5b7c-4d79-8e8f-762b72809200">
     <img align="left" width="150" height="150" alt="Giovanni's ComTIA Security+ Certification" width="22px" src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
   </a>
     
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/Giovannireid-1233/72E683A2441F959B?sharingId=DC25E13727945CAB">
     <img align="left" width="150" height="150" alt="Giovanni's Microsoft AZ-900 Certification Certification" width="22px" src="https://github.com/TechGiovanni/Certifications/blob/main/Screen%20Shot%202023-12-17%20at%208.14.26%20PMa.png?raw=true" />
   </a>
+  
 </section>
 
 <br>

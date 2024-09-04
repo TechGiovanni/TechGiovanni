@@ -17,23 +17,28 @@ My journey in Computer support and Networks has led me to develop a passion for 
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-SIEM: Splunk Enterprise
-Endpoint Detection and Response (EDR): Microsoft Defender for Endpoint
-Network Security Tools: Wireshark, Snort
-Vulnerability Assessment: Nessus, Nmap
-Access Management: Microsoft Active Directory (AD) DS
-Firewalls: Pfsense
-Other Essential Tools: Burp Suite (for web vulnerability scanning), Metasploit (for penetration testing), Kali Linux (for penetration testing and analysis), Maltego (for data visualization, OSINT and link analysis)
+  <li>
+    <b>Real-World-Network-Architecture-and-Cyber-Security-Lab</b>
+    <ul dir="auto">
+      <li>SIEM: Splunk Enterprise</li>
+      <li>Endpoint Detection and Response (EDR): Microsoft Defender for Endpoint</li>
+      <li>Network Security Tools: Wireshark, Snort</li>
+      <li>Vulnerability Assessment: Nessus, Nmap</li>
+      <li>Access Management: Microsoft Active Directory (AD) DS</li>
+      <li>Firewalls: Pfsense</li>
+      <li>Other Essential Tools: Burp Suite (for web vulnerability scanning), Metasploit (for penetration testing), Kali Linux (for penetration testing and analysis), Maltego (for data visualization, OSINT and link analysis)</li>
+    </ul>
+  </li>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft Azure fundamentals AZ900-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft Azure fundamentals AZ-900-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## 👨‍💻 Projects:</h2>
+  
   <li>
     <b>Real-World-Network-Architecture-and-Cyber-Security-Lab</b>
     <ul dir="auto">
@@ -42,8 +47,7 @@ Other Essential Tools: Burp Suite (for web vulnerability scanning), Metasploit (
       <li><a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Security</a></li>
     </ul>
   </li>
-  
-    <br>
+
     
 <ul dir="auto">
   <li>
@@ -54,8 +58,7 @@ Other Essential Tools: Burp Suite (for web vulnerability scanning), Metasploit (
       <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
-  
-    <br>
+
     
   <li>
     <b>Active Directory</b>

@@ -31,18 +31,9 @@ My journey in Computer support and Networks has led me to develop a passion for 
 <img src="https://img.shields.io/badge/-Microsoft Azure fundamentals AZ:900-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## 👨‍💻 Projects:</h2>   
+## 👨‍💻 IT Projects:</h2>   
 <ul dir="auto">
     <li>
-    <b>Real-World-Network-Architecture-and-Cyber-Security-Lab</b>
-    <ul dir="auto">
-      <li>Built a robust network inrastructure</li>
-      <li>Securied the infrastructure with industry standards</li>
-      <li><a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Security</a></li>
-    </ul>
-  </li>
-
-  
   <li>
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
     <ul dir="auto">

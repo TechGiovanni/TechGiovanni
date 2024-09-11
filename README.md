@@ -16,12 +16,12 @@ My journey in Computer support and Networks has led me to develop a passion for 
 
 ## Tools
   <ul dir="auto">
-      <li><strong>SIEM</strong>: Splunk Enterprise, Microsoft Sentinel</li>
-      <li><strong>IPS / IDS</strong>: Snort, Suricata, PfBlockerNG</li>
-      <li><strong>Security Tools</strong>: Nmap, Qualys, Metasploit, Burp Suite, Nessus, Wireshark</li>
-      <li><strong>IAM / Databases</strong>: Microsoft Active Directory (AD) DS, Microsoft Access, SQL Server</li>
-      <li><strong>Operating Systems</strong>: Kali Linux, Ubuntu, Fedora, Windows, MacOS</li>
-      <li><strong>Other Essential Tools</strong>: Maltego, OSINT (Virus Total, IP Scanners)</li>
+      <li><strong>SIEM</strong> -- Splunk Enterprise, Microsoft Sentinel</li>
+      <li><strong>IPS / IDS</strong> -- Snort, Suricata, PfBlockerNG</li>
+      <li><strong>Security Tools</strong> -- Nmap, Qualys, Metasploit, Burp Suite, Nessus, Wireshark</li>
+      <li><strong>IAM / Databases</strong> -- Microsoft Active Directory (AD) DS, Microsoft Access, SQL Server</li>
+      <li><strong>Operating Systems</strong> -- Kali Linux, Ubuntu, Fedora, Windows, MacOS</li>
+      <li><strong>Other Essential Tools</strong> -- Maltego, OSINT (Virus Total, IP Scanners)</li>
   </ul>
 
 ## Certifications

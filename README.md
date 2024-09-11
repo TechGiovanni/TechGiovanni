@@ -12,7 +12,7 @@ My journey in Computer support and Networks has led me to develop a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis           | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
-| MIcrosoft Sentinel | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
+| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
 ## Tools
   <li>

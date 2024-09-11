@@ -11,7 +11,7 @@ My journey in Computer support and Networks has led me to develop a passion for 
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
+| SIEM Implementation and Log Analysis and Active Directory On-premises           | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
 sx
 |                                                |                       |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|

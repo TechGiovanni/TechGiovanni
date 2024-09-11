@@ -33,7 +33,6 @@ My journey in Computer support and Networks has led me to develop a passion for 
 
 ## 👨‍💻 IT Projects:</h2>   
 <ul dir="auto">
-    <li>
   <li>
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
     <ul dir="auto">
@@ -42,8 +41,7 @@ My journey in Computer support and Networks has led me to develop a passion for 
       <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
-
-    
+  
   <li>
     <b>Active Directory</b>
     <ul dir="auto">

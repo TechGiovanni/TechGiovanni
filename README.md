@@ -18,7 +18,6 @@ My journey in Computer support and Networks has led me to develop a passion for 
 
 ## Tools
   <li>
-    <b>Real-World-Network-Architecture-and-Cyber-Security-Lab</b>
     <ul dir="auto">
       <li>SIEM: Splunk Enterprise</li>
       <li>Endpoint Detection and Response (EDR): Microsoft Defender for Endpoint</li>

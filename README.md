@@ -12,20 +12,17 @@ My journey in Computer support and Networks has led me to develop a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis           | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Real-World-Network-Architecture-and-Cyber-Security-Lab</a>|
+| MIcrosoft Sentinel | <a href="https://github.com/TechGiovanni/Real-World-Network-Architecture-and-Cyber-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
 ## Tools
   <li>
     <ul dir="auto">
-      <li>SIEM: Splunk Enterprise</li>
-      <li>Endpoint Detection and Response (EDR): Microsoft Defender for Endpoint</li>
-      <li>Network Security Tools: Wireshark, Snort</li>
-      <li>Vulnerability Assessment: Nessus, Nmap</li>
-      <li>Access Management: Microsoft Active Directory (AD) DS</li>
-      <li>Firewalls: Pfsense</li>
-      <li>Other Essential Tools: Burp Suite (for web vulnerability scanning), Metasploit (for penetration testing), Kali Linux (for penetration testing and analysis), Maltego (for data visualization, OSINT and link analysis)</li>
+      <li>SIEM: Splunk Enterprise, Microsoft Sentinel</li>
+      <li>IPS / IDS: Snort, Suricata, PfBlockerNG</li>
+      <li>Security Tools: Nmap, Qualys, Metasploit, Burp Suite, Nessus, Wireshark</li>
+      <li>IAM / Databases: Microsoft Active Directory (AD) DS, Microsoft Access, SQL Server</li>
+      <li>Operating Systems: Kali Linux, Ubuntu, Fedora, Windows, MacOS</li>
+      <li>Other Essential Tools: Maltego, OSINT (Virus Total, IP Scanners)</li>
     </ul>
   </li>
 

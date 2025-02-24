@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-My journey in Computer Support and Networking has led me to develop a passion for Learning and helping customer's with tech issues, and I am now eager to grow into this field, specifically aiming to join an IT Support Technician/Engineer Role.
+My journey in Computer Support and Networking has led me to develop a passion for Learning and helping customer's with tech issues, and I am eager to grow into this field, specifically aiming to join an IT Support Technician/Engineer Role.
 
 ## Skills
 | Skill                                         | Associated Project         |

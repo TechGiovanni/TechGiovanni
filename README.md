@@ -3,10 +3,8 @@
 # 😊 Hi, I'm Giovanni Reid!
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
 ## Objective
-My journey in Computer support and Networks has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Computer support and Networks has led me to develop a passion for Learning helping people with tech issues, and I am now eager to grow into this field, specifically aiming to join an IT Support Technician/Engineer Role.
 
 ## Skills
 | Skill                                         | Associated Project         |
@@ -14,15 +12,6 @@ My journey in Computer support and Networks has led me to develop a passion for 
 | SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
 | Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
-## Tools
-  <ul dir="auto">
-      <li><strong>SIEM</strong> -- Splunk Enterprise, Microsoft Sentinel</li>
-      <li><strong>IPS / IDS</strong> -- Snort, Suricata, PfBlockerNG</li>
-      <li><strong>Security Tools</strong> -- Nmap, Qualys, Metasploit, Burp Suite, Nessus, Wireshark</li>
-      <li><strong>IAM / Databases</strong> -- Microsoft Active Directory (AD) DS, Microsoft Access, SQL Server</li>
-      <li><strong>Operating Systems</strong> -- Kali Linux, Ubuntu, Fedora, Windows, MacOS</li>
-      <li><strong>Other Essential Tools</strong> -- Maltego, OSINT (Virus Total, IP Scanners)</li>
-  </ul>
 
 ## Certifications
 <div>

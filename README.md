@@ -5,7 +5,8 @@
 
 ## 👨‍💻 Information Technology Projects:</h2>   
 <ul dir="auto">
-  
+
+ <!-- Ticketing System Projects--> 
  <br>
    <li>
     <b>(Ticketing Systems):</b>
@@ -24,6 +25,8 @@
     </ul>
   </li>
 
+
+<!-- Active Directory Projects-->
 <!--
  <li>
     <b>(Cisco Networking and Active Directory Management): </b>
@@ -61,10 +64,7 @@
 
 
 
-
-
-
- <br>
+<!-- Microsoft Azure Projects-->
    <li>
     <b>(Azure Cloud):</b>
     <ul dir="auto">

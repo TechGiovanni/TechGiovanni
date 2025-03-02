@@ -9,7 +9,7 @@
    <li>
     <b>Networking</b>
     <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab"></a>Active Directory & Cisco Networking Scalable to over 20+ users</li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Active Directory & Cisco Networking Scalable to over 20+ users</a></li>
     </ul>
   </li>
   <br>

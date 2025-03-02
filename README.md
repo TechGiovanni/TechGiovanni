@@ -10,8 +10,8 @@
    <li>
     <b>(Ticketing Systems):</b>
     <ul dir="auto">
-<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk - (In Progress...)</a></p></li>
-<li><p>ServiceNow: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow - (In Progress...)</a></p></li>
+<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a></p></li>
+<li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>
 <li>
   <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :
     <ul>

@@ -7,7 +7,7 @@
 <ul dir="auto">
   
    <li>
-    <b>Enterprise Network: Cisco, Pfsense Firewall, Splunk Enterprise in Hyper-V VMs</b>
+    <b>Implemented an Enterprise Network: Cisco, Firewall, and Splunk Enterprise in VMs</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented, designed and configured an Enterprise Network</a></li>
     </ul>

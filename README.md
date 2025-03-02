@@ -43,7 +43,6 @@
   </li>
   <br>
 
-  | Microsoft Sentinel (SEIM) | |
 
 <!--
 ## Cyber Security Labs

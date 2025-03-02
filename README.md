@@ -38,7 +38,7 @@
    <li>
     <b>Azure</b>
     <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a></li>
+      <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab </a></li>
     </ul>
   </li>
   <br>

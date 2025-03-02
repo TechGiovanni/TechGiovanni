@@ -10,8 +10,8 @@
    <li>
     <b>(Ticketing Systems):</b>
     <ul dir="auto">
-<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a></p></li>
-<li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>
+<!-- <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a></p></li>
+<li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->
 <li>
   <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :
     <ul>
@@ -47,10 +47,10 @@
     <b>(Azure Cloud):</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab </a></li>
+      <!-- <li><a href="https://github.com/TechGiovanni/Microsoft-EntraID-In-Azure-Implementation">Microsoft EntraID (Azure AD) - (In Progress...)</a></li>-->
     </ul>
   </li>
   <br>
-
 
 
 

@@ -23,8 +23,6 @@
   </li>
     </ul>
   </li>
-  <br>
-
 
   <li>
     <b>Cisco Enterprise Networking Infrastructure Implementation: </b>

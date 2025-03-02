@@ -39,6 +39,7 @@
 | SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
 | Microsoft Sentinel (SEIM) | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
+  <br>
 <section>
   <h2> 📃 Certifications:</h2>
     <a href="https://www.credly.com/badges/00c81f3b-e882-4cf8-81c7-aedf399d4ee7/linked_in_profile">

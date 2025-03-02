@@ -31,14 +31,24 @@
       <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>
     </ul>
   </li>
+
+   <li>
+    <b>Azure</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a></li>
+    </ul>
+  </li>
   <br>
 
+  | Microsoft Sentinel (SEIM) | |
+
+<!--
 ## Cyber Security Labs
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
 | Microsoft Sentinel (SEIM) | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
-
+-->
   <br>
 <section>
   <h2> 📃 Certifications:</h2>

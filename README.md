@@ -49,7 +49,7 @@
         </p>
       <!--</li>-->
       <!--<li>-->
-        <p>Active Directory in Azure:  
+        <p>Active Directory in Azure Cloud-Based:  
           <a href=""></a>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>

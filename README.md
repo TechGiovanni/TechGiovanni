@@ -41,7 +41,7 @@
  <li>
     <b>(Active Directory) :</b>
     <ul dir="auto">
-      <p>Active Directory Management (Advance) and Cisco Networking Infrastructure:
+      <p>(Proficiency Level: Advance) Microsoft Active Directory and Cisco Networking Infrastructure:
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core</a></li>

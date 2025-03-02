@@ -7,7 +7,7 @@
 <ul dir="auto">
   
    <li>
-    <b>Implemented an Enterprise Network: Cisco, Firewall, and Splunk Enterprise</b>
+    <b>Implemented an Enterprise Network: Cisco, pfSense Firewall, and Splunk Enterprise</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented, designed and configured an Enterprise Network</a></li>
     </ul>

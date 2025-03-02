@@ -39,12 +39,10 @@
     <b>(Active Directory) :</b>
     <ul dir="auto">
       <p>Cisco Networking and Advance Active Directory Management :
-        <li>
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core</a></li>
           </ul>
-         </li>
         </p>
       <!--</li>-->
       <!--<li>-->

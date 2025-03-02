@@ -22,7 +22,8 @@
       <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
     </ul>
   </li>
-  
+   <br>
+   
   <li>
     <b>Active Directory</b>
     <ul dir="auto">

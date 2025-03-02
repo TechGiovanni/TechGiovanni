@@ -39,7 +39,7 @@
     <b>(Active Directory) :</b>
     <ul dir="auto">
       <!--<li>-->
-      <p>(Cisco Networking and Advance Active Directory Management) :
+      <p>Cisco Networking and Advance Active Directory Management :
         <li>
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
@@ -50,7 +50,7 @@
       <!--</li>-->
       <!--<li>-->
         <p>(Active Directory in Azure):  
-          <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a>
+          <a href=""></a>
            <li>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>

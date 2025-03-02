@@ -6,14 +6,7 @@
 ## 👨‍💻 Information Technology Projects:</h2>   
 <ul dir="auto">
   
-   <li>
-    <b>Enterprise Networking infrastructure Implementation: </b>
-    <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Configured Cisco routers, pfSense Firewall, and Splunk Enterprise</a></li>
-    </ul>
-  </li>
-  <br>
-  
+ 
   <li>
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
     <ul dir="auto">
@@ -23,6 +16,14 @@
     </ul>
   </li>
    <br>
+
+  <li>
+    <b>Enterprise Networking infrastructure Implementation: </b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Configured Cisco routers, pfSense Firewall, and Splunk Enterprise</a></li>
+    </ul>
+  </li>
+  <br>
    
   <li>
     <b>Active Directory</b>

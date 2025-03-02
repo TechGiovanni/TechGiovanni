@@ -28,7 +28,7 @@
     <b>(Cisco Networking): </b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Cisco IOS as our Router, setup Pfsense Firewall Rules and Aliases, Using Splunk Enterprise as our SOC (SIEM), and using Windows Servers at the core</a></li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and using Windows Servers at the core</a></li>
     </ul>
   </li>
   <br>

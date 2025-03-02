@@ -27,7 +27,7 @@
   <li>
     <b>(Cisco Networking): </b>
     <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enteprise Networking Infrastructure</a></li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
     </ul>
   </li>
   <br>

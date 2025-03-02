@@ -25,9 +25,10 @@
   </li>
 
   <li>
-    <b>(Cisco Enterprise Networking Infrastructure Implementation): </b>
+    <b>(Cisco Networking): </b>
     <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Configured Cisco routers, pfSense Firewall, and Splunk Enterprise</a></li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enteprise Networking Infrastructure</a></li>
+      <li>Tools and technologies: Cisco routers, pfSense Firewall, Splunk Enterprise, Security Plugins and configurations</a></li>
     </ul>
   </li>
   <br>

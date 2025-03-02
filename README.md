@@ -6,20 +6,6 @@
 ## Objective
 My journey in Computer Support and Networking has led me to develop a passion for Learning and helping customer's with tech issues, and I am eager to grow into this field, specifically aiming to join an IT Support Technician/Engineer Role.
 
-## Skills
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
-| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
-
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft Azure fundamentals AZ:900-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
 ## 👨‍💻 IT Projects:</h2>   
 <ul dir="auto">
   <li>
@@ -42,6 +28,13 @@ My journey in Computer Support and Networking has led me to develop a passion fo
     </ul>
   </li>
   <br>
+
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
+| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
+| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
 <section>
   <h2> 📃 Certifications:</h2>
@@ -89,6 +82,15 @@ My journey in Computer Support and Networking has led me to develop a passion fo
 
 <br>
 <br>
+<!--
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft Azure fundamentals AZ:900-000080?&style=for-the-badge&logoColor=white" />
+</div>
+-->
+
 <!-- <p>* 🌍  I'm based in Montreal, QC</p> -->
 
 <!-- <p> - 🌱 I’m currently Building projects using **React, Node.js, Express, MongoDb, FireBase** skills</p>  -->

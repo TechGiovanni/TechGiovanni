@@ -12,18 +12,18 @@
     <ul dir="auto">
 <!-- <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a></p></li>
 <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->
-<li>
-  <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :
-    <ul>
-      <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
-      <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li>
-      <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
-    </ul>
-    </p>
-  </li>
-    </ul>
-  </li>
-
+    <li>
+      <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :
+        <ul>
+          <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
+          <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li>
+          <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+        </ul>
+        </p>
+      </li>
+        </ul>
+      </li>
+</ul>
 <!--
  <li>
     <b>(Cisco Networking and Active Directory Management): </b>

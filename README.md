@@ -8,7 +8,7 @@
   
  <br>
    <li>
-    <b>Ticketing Systems</b>
+    <b>(Ticketing Systems):</b>
     <ul dir="auto">
 <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk - (In Progress...)</a></p></li>
 <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow - (In Progress...)</a></p></li>
@@ -25,7 +25,7 @@
   </li>
 
   <li>
-    <b>Cisco Enterprise Networking Infrastructure Implementation: </b>
+    <b>(Cisco Enterprise Networking Infrastructure Implementation): </b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Configured Cisco routers, pfSense Firewall, and Splunk Enterprise</a></li>
     </ul>
@@ -33,7 +33,7 @@
   <br>
    
   <li>
-    <b>Active Directory</b>
+    <b>(Active Directory):</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>
       <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li>
@@ -43,7 +43,7 @@
 
  <br>
    <li>
-    <b>Azure</b>
+    <b>(Azure Cloud):</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab </a></li>
     </ul>

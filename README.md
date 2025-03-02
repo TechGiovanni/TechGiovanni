@@ -8,7 +8,7 @@
   
  <br>
    <li>
-    <b>Ticketing Systems (In Progress...)</b>
+    <b>Ticketing Systems</b>
     <ul dir="auto">
 <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk - (In Progress...)</a></p></li>
 <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow - (In Progress...)</a></p></li>

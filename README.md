@@ -24,17 +24,24 @@
     </ul>
   </li>
 
-  <li>
-    <b>(Cisco Networking): </b>
+<!--
+ <li>
+    <b>(Cisco Networking and Active Directory Management): </b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core</a></li>
     </ul>
   </li>
   <br>
+  -->
    
   <li>
     <b>(Active Directory):</b>
+      <b>(Cisco Networking and Active Directory Management): </b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core</a></li>
+    </ul>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>
       <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li>

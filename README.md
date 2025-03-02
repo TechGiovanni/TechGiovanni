@@ -66,7 +66,7 @@
 
 <!-- Microsoft Azure Projects-->
    <li>
-    <b>(Azure Cloud):</b>
+    <b>(Cyber Security IT Analyst):</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab </a></li>
       <!-- <li><a href="https://github.com/TechGiovanni/Microsoft-EntraID-In-Azure-Implementation">Microsoft EntraID (Azure AD) - (In Progress...)</a></li>-->

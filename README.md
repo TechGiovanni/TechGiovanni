@@ -28,7 +28,6 @@
     <b>(Cisco Networking): </b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enteprise Networking Infrastructure</a></li>
-      <li>Tools and technologies: Cisco routers, pfSense Firewall, Splunk Enterprise, Security Plugins and configurations</a></li>
     </ul>
   </li>
   <br>

@@ -10,8 +10,8 @@
    <li>
     <b>Ticketing Systems (In Progress...)</b>
     <ul dir="auto">
-      <li><p>Zendesk: </p><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk - (In Progress...)</a></li>
-      <li><p>ServiceNow: </p><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow - (In Progress...)</a></li>
+      <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk - (In Progress...)</a></p></li>
+      <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow - (In Progress...)</a></p></li>
   <p>osTicket (Help Desk Ticketing System) in Microsoft Azure</p>
       <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li>
       <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li>

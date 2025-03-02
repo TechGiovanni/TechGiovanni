@@ -38,7 +38,6 @@
  <li>
     <b>(Active Directory) :</b>
     <ul dir="auto">
-      <!--<li>-->
       <br>
       <p>Cisco Networking and Advance Active Directory Management :
         <li>

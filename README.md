@@ -5,6 +5,15 @@
 
 ## 👨‍💻 Information Technology Projects:</h2>   
 <ul dir="auto">
+  
+   <li>
+    <b>Networking</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab"></a>Active Directory & Cisco Networking Scalable to over 20+ users</li>
+    </ul>
+  </li>
+  <br>
+  
   <li>
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
     <ul dir="auto">
@@ -17,21 +26,18 @@
   <li>
     <b>Active Directory</b>
     <ul dir="auto">
-      <li>Configure Redundant Active Directory Servers</li>
-      <li>Create and Issue Group Policy Update to all Domain users</li>
-      <li><a href="https://github.com/TechGiovanni/Configuring-On-premises-Active-Directory-within-Azure-VMs">Configuring On-premises Active Directory within Azure VMs</a></li>
+      <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>
       <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li>
       <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>
     </ul>
   </li>
   <br>
 
-## Skills
+## Cyber Security Labs
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
-| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
-| Microsoft Sentinel | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
+| Microsoft Sentinel (SEIM) | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
 
 <section>
   <h2> 📃 Certifications:</h2>

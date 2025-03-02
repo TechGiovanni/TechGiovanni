@@ -38,7 +38,7 @@
  <li>
     <b>(Active Directory) :</b>
     <ul dir="auto">
-       <li>
+      <!--<li>-->
       <p>(Cisco Networking and Advance Active Directory Management) :
         <li>
           <ul>
@@ -47,8 +47,8 @@
           </ul>
          </li>
         </p>
-      </li>
-      <li>
+      <!--</li>-->
+      <!--<li>-->
         <p>(Active Directory in Azure):  
           <a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management">Zendesk - (In Progress...)</a>
            <li>
@@ -59,7 +59,7 @@
             </ul>
            </li>
         </p>
-      </li>
+      <!--</li>-->
       </ul>
     </li>
   </li>

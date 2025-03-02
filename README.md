@@ -38,7 +38,7 @@
  <li>
     <b>(Active Directory) :</b>
     <ul dir="auto">
-      <p>Cisco Networking and Advance Active Directory Management :
+      <p>Active Directory Management (Advance) and Cisco Networking Infrastructure:
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core</a></li>
@@ -48,13 +48,11 @@
       <!--<li>-->
         <p>(Active Directory in Azure):  
           <a href=""></a>
-           <li>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>
              <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li>
              <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>
             </ul>
-           </li>
         </p>
       <!--</li>-->
       </ul>

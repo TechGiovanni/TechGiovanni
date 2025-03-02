@@ -28,7 +28,7 @@
     <b>(Cisco Networking): </b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
-      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">By Creating variable TCP/IP addresses, Firewall rules and Aliases, Cisco IOS configuration,</a></li>
+      <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via using Cisco IOS to setup variable TCP/IP addresses, and routes, setup Firewall rules and Aliases, and Windows Servers,</a></li>
     </ul>
   </li>
   <br>

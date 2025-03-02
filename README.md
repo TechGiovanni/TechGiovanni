@@ -6,6 +6,15 @@
 ## 👨‍💻 Information Technology Projects:</h2>   
 <ul dir="auto">
   
+ <br>
+   <li>
+    <b>Ticketing Systems (In Progress...)</b>
+    <ul dir="auto">
+      <li><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk</a></li>
+      <li><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow </a></li>
+    </ul>
+  </li>
+  <br>
  
   <li>
     <b>osTicket (Help Desk Ticketing System) in Microsoft Azure</b>
@@ -43,15 +52,7 @@
   </li>
   <br>
 
- <br>
-   <li>
-    <b>Ticketing Systems (In Progress)</b>
-    <ul dir="auto">
-      <li><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">Zendesk</a></li>
-      <li><a href="https://github.com/TechGiovanni/Implementing-Zendesk-Ticketing-System-Incident-Management/blob/main/README.md">ServiceNow </a></li>
-    </ul>
-  </li>
-  <br>
+
 
 
 <!--

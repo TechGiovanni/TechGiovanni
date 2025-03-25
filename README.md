@@ -1,6 +1,7 @@
 <!-- [![MasterHead]() -->
 <!-- ![MasterHead]() -->
-# 😊 Hi, I'm Giovanni Reid!
+# 😊 Hi, I'm Giovanni Reid, an <a href="https://www.linkedin.com/in/giovanni-reid">IT Professional</a>☺
+
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👨‍💻 Information Technology Projects:</h2>   

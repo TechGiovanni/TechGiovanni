@@ -42,7 +42,7 @@
  <li>
     <b>(Active Directory) :</b>
     <ul dir="auto">
-      <p>Microsoft Active Directory and Cisco Networking Infrastructure:
+      <p>Active Directory + Cisco Networking Infrastructure and cybersecurity SOC on Hyper-V Virtual Machines:
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core to connect all the computers together</a></li>
@@ -50,7 +50,7 @@
         </p>
       <!--</li>-->
       <!--<li>-->
-        <p>Active Directory in Azure Cloud-Based:  
+        <p>Active Directory in Microsoft Azure Cloud:  
           <a href=""></a>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li>

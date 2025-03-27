@@ -12,9 +12,9 @@
    <li>
     <b>(Ticketing Systems): </b>
     <ul dir="auto">
-<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance- The complete customer service solution - (In Progress, expected March 31, 2025)</a>
+<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a>
    <ul>
-          <li>In Prepration for the Certification: Zendesk Support Administrator Expert</a></li>
+          <li> - The complete customer service solution, in Prepration for the <strong>Certification: Zendesk Support Administrator Expert<strong></a></li>
         </ul>
 </p></li>
 <!-- <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->

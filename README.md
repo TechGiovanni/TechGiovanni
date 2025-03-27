@@ -12,8 +12,11 @@
    <li>
     <b>(Ticketing Systems): </b>
     <ul dir="auto">
-<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance- The complete customer service solution - (In Progress, expected March 31, 2025)</a></p></li>
-     
+<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance- The complete customer service solution - (In Progress, expected March 31, 2025)</a>
+   <ul>
+          <li>In Prepration for the Certification: Zendesk Support Administrator Expert</a></li>
+        </ul>
+</p></li>
 <!-- <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->
    <li>
       <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :

@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👨‍💻 Information Technology Projects:</h2>   
-
+<span style="text-align:center">
 ###  *My Ticketing System Labs*
+<span>
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Zendesk Support Administrator | <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a></li> |

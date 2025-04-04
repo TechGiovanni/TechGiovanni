@@ -10,7 +10,7 @@
  <!-- Ticketing System Projects--> 
  <br>
    <li>
-    <b>(Ticketing System Labs): </b>
+    # (Ticketing System Labs):
     <ul dir="auto">
 <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a>
    <ul>
@@ -48,7 +48,7 @@
  <li>
     <b>(Active Directory Labs) :</b>
     <ul dir="auto">
-       <p>Active Directory in Microsoft Azure Cloud:  
+       <p>Microsof 365 Administrator - Hybrid Cloud Infrastructure:  
           <a href=""></a>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a></li>

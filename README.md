@@ -12,7 +12,7 @@
    <li>
     # (Ticketing System Labs):
     <ul dir="auto">
-<li><p>Zendesk</a>
+<li><p>Zendesk Support Administrator HelpDesk Lab</a>
    <ul>
     <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance</a></li>      
     <li>The complete customer service solution</a></li>

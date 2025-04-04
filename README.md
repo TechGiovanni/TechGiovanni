@@ -12,11 +12,10 @@
    <li>
     # (Ticketing System Labs):
     <ul dir="auto">
-<li><p>Zendesk Support Administrator HelpDesk Lab</a>
+<li><p>Zendesk Support Administrator</a>
    <ul>
     <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance</a></li>      
     <li>The complete customer service solution</a></li>
-           <li>In Prepration for the <strong>Certification: Zendesk Support Administrator Expert<strong></li>
         </ul>
 </p></li>
 <!-- <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->

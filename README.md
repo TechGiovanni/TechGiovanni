@@ -9,14 +9,14 @@
 ###  *My Ticketing System Labs*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Zendesk Support Administrator | <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a>|
+| Zendesk Support Administrator | <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a></li> |
 | osTicket (Help Desk Ticketing System) in Microsoft Azure | <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li> <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li> <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>|
 
 ###  *My Active Directory Labs*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Microsof 365 Endpoint Administrator - Hybrid Cloud Infrastructure | <a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a>|
-| Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines | <a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implemented an Enterprise Networking Infrastructure</a>
+| Microsof 365 Endpoint Administrator - Hybrid Cloud Infrastructure | <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a></li>|
+| Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines | <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implemented an Enterprise Networking Infrastructure</a></li>
 | Active Directory in Microsoft Azure Cloud |  <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li> <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li> <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>|
 
 

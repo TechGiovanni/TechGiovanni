@@ -10,7 +10,7 @@
  <!-- Ticketing System Projects--> 
  <br>
    <li>
-    <b>(Ticketing Systems): </b>
+    <b>(Ticketing System Labs): </b>
     <ul dir="auto">
 <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a>
    <ul>
@@ -45,7 +45,7 @@
   -->
 
  <li>
-    <b>(Active Directory) :</b>
+    <b>(Active Directory Labs) :</b>
     <ul dir="auto">
       <p>Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines:
           <ul>
@@ -72,7 +72,7 @@
 
 <!-- Microsoft Azure Projects-->
    <li>
-    <b>(Cyber Security):</b>
+    <b>(Cyber Security Labs):</b>
     <ul dir="auto">
       <li><a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab in the Cloud </a></li>
       <!-- <li><a href="https://github.com/TechGiovanni/Microsoft-EntraID-In-Azure-Implementation">Microsoft EntraID (Azure AD) - (In Progress...)</a></li>-->

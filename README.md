@@ -12,9 +12,9 @@
    <li>
     # (Ticketing System Labs):
     <ul dir="auto">
-<li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a>
+<li><p>Zendesk</a>
    <ul>
-    <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a></li>      
+    <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance</a></li>      
     <li>The complete customer service solution</a></li>
            <li>In Prepration for the <strong>Certification: Zendesk Support Administrator Expert<strong></li>
         </ul>
@@ -46,13 +46,14 @@
   -->
 
  <li>
-    <b>(Active Directory Labs) :</b>
+    <li><strong>(Active Directory Labs) :</strong>
     <ul dir="auto">
        <p>Microsof 365 Administrator - Hybrid Cloud Infrastructure:  
           <a href=""></a>
             <ul>
              <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a></li>
             </ul>
+    </li>
     </p>
       <p>Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines:
           <ul>

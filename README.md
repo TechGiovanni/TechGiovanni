@@ -6,18 +6,21 @@
 
 ## 👨‍💻 Information Technology Projects:</h2>   
 <ul dir="auto">
-
  <!-- Ticketing System Projects--> 
  <br>
-   <li>
-    # (Ticketing System Labs):
+   <li># (Ticketing System Labs):
     <ul dir="auto">
-<li><p>Zendesk Support Administrator</a>
-   <ul>
-    <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance</a></li>      
-    <li>The complete customer service solution</a></li>
-        </ul>
-</p></li>
+     <li>
+       <p>
+        Zendesk Support Administrator
+        <ul>
+         <li>
+           <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance</a>
+         </li>      
+        </ul> 
+       </p>
+     </li>
+   </li>
 <!-- <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->
    <li>
       <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :

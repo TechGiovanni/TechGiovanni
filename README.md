@@ -135,6 +135,8 @@
 <br>
 
 <h2 align="center"> 🤳 Connect with me:</h2>
+
+<!--
 <p align="center">
   
   <a href="https://www.linkedin.com/in/giovanni-reid" target="_blank">
@@ -151,7 +153,7 @@
   
 </p>
 
-
+-->
 
 
 <br>

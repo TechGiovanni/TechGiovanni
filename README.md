@@ -20,7 +20,7 @@
 | Active Directory in Microsoft Azure Cloud |  <li><a href="https://github.com/TechGiovanni/Active-Directory-On-Premises-in-Azure">On-premises Active Directory Deployed in the Cloud (Azure)</a></li> <li><a href="https://github.com/TechGiovanni/Resetting-Passwords-and-Unlock-User-Accounts">Resetting Passwords and Unlock User Accounts</a></li> <li><a href="https://github.com/TechGiovanni/Configure-DNS-and-DHCP-On-Active-Directory">Executed DHCP and DNS Services on Active Directory</a></li>|
 
 
-###  *Cyber Security Labs*
+###  *My Cyber Security Labs*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab in the Cloud </a>|

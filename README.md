@@ -14,7 +14,8 @@
     <ul dir="auto">
 <li><p>Zendesk: <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a>
    <ul>
-          <li>The complete customer service solution</a></li>
+    <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing a Zendesk Enterprise Instance - (Expected March 31, 2025)</a></li>      
+    <li>The complete customer service solution</a></li>
            <li>In Prepration for the <strong>Certification: Zendesk Support Administrator Expert<strong></li>
         </ul>
 </p></li>
@@ -47,6 +48,12 @@
  <li>
     <b>(Active Directory Labs) :</b>
     <ul dir="auto">
+       <p>Active Directory in Microsoft Azure Cloud:  
+          <a href=""></a>
+            <ul>
+             <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a></li>
+            </ul>
+    </p>
       <p>Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines:
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
@@ -67,8 +74,6 @@
       </ul>
     </li>
   </li>
-
-<!--  https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot/blob/main/README.md -->
 
 <!-- Microsoft Azure Projects-->
    <li>

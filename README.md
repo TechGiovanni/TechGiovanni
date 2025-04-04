@@ -6,11 +6,11 @@
 
 ## 👨‍💻 Information Technology Projects:</h2>   
 
-## Cyber Security Labs
+###  (Ticketing System Labs)
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/TechGiovanni/Network-Architecture-and-Cyber-Security-Lab">Network Architecture and Cyber Security Lab</a>|
-| Microsoft Sentinel (SEIM) | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel Security Lab</a>|
+| Zendesk Support Administrator | <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a>|
+| osTicket (Help Desk Ticketing System) in Microsoft Azure | <li><a href="https://github.com/TechGiovanni/osTicket-Prerequisites-and-Installation">osTicket: Prerequisites and Installation</a></li> <li><a href="https://github.com/TechGiovanni/osTicket-Post-Installation-Configuration">osTicket: Post-Installation Configuration</a></li> <li><a href="https://github.com/TechGiovanni/osTicket-Ticket-Lifecycle">osTicket: Ticket Lifecycle Examples</a></li>|
 
 <ul dir="auto">
  <!-- Ticketing System Projects--> 

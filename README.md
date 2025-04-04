@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Information Technology Projects:</h2>   
 
-###  (Ticketing System Labs)
+###  Ticketing System Labs
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Zendesk Support Administrator | <a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a>|

@@ -46,7 +46,7 @@
   -->
 
  <li>
-    <li><strong>(Active Directory Labs) :</strong>
+    <b><(Active Directory Labs) :</b>
     <ul dir="auto">
        <p>Microsof 365 Administrator - Hybrid Cloud Infrastructure:  
           <a href=""></a>

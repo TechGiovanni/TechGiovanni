@@ -8,7 +8,7 @@
 <ul dir="auto">
  <!-- Ticketing System Projects--> 
  <br>
-   <li># (Ticketing System Labs):
+   <li><strong># (Ticketing System Labs):</strong>
     <ul dir="auto">
      <li>
        <p>

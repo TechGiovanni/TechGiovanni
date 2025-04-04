@@ -44,9 +44,9 @@
   </li>
   <br>
   -->
-
+<br>
  <li>
-    <b><(Active Directory Labs) :</b>
+    <b>(Active Directory Labs) :</b>
     <ul dir="auto">
        <p>Microsof 365 Administrator - Hybrid Cloud Infrastructure:  
           <a href=""></a>
@@ -76,6 +76,7 @@
     </li>
   </li>
 
+<br>
 <!-- Microsoft Azure Projects-->
    <li>
     <b>(Cyber Security Labs):</b>

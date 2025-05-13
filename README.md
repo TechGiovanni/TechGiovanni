@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/giovanni-reid/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 👨‍💻 Information Technology Projects:</h2>   
-###  *My Ticketing System Labs*
+<!-- ###  *My Ticketing System Labs*
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Zendesk Support Administrator | <li><a href="https://github.com/TechGiovanni/Zendesk-Support-Administrator">Managing Organization Ticketing System in Zendesk</a></li> |
@@ -25,6 +25,7 @@
 | https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab | <a href="https://github.com/TechGiovanni/Microsoft-Azure-Sentinel-Security-Lab">Microsoft Azure Sentinel (SEIM) Security Lab in the Cloud </a>|
 
 (Cyber Security Labs):
+-->
 
 <ul dir="auto">
  <!-- Ticketing System Projects--> 

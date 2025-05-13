@@ -159,11 +159,11 @@
   <a href="https://www.linkedin.com/in/giovanni-reid" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/techgiovanni" height="30" width="40" />
   </a>
-  
+  <!--
   <a href="https://www.youtube.com/channel/UCxcH0qsQPTrpK9s2aW4jGHw" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/600px-YouTube_social_white_square_%282017%29.svg.png" alt="Giovanni's youtube channel" height="30" width="30" />
   </a>
-  
+  -->
   <a href="https://medium.com/@techgiovanni" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@techgiovanni" height="30" width="40" />
   </a>

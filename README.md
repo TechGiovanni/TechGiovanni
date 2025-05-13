@@ -79,7 +79,7 @@
             </ul>
     </li>
     </p>
-      <p>Active Directory + Cisco and Cybersecurity (SOC Analyst) on Hyper-V Virtual Machines:
+      <p>Active Directory, Cisco router and a Security Operation Center:
           <ul>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Implemented an Enterprise Networking Infrastructure</a></li>
            <li><a href="https://github.com/TechGiovanni/Network-Security-Lab">Via the setup of Variable TCP/IP Addresses, Using Cisco IOS to configure the Router, setup Pfsense Firewall, Splunk Enterprise SOC (SIEM), and Windows Servers at the core to connect all the computers together</a></li>

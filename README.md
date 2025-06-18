@@ -29,7 +29,7 @@
 
 <ul dir="auto">
  <!-- Ticketing System Projects--> 
- <br>
+<!-- <br>
    <li><strong>(Ticketing System Labs):</strong>
     <ul dir="auto">
      <li>
@@ -42,7 +42,7 @@
         </ul> 
        </p>
      </li>
-   </li>
+   </li> -->
 <!-- <li><p>ServiceNow: <a href="https://github.com/TechGiovanni/ServiceNow-Incident-Management-Implementation/tree/main">ServiceNow - (In Progress...)</a></p></li>-->
    <li>
       <p>osTicket (Help Desk Ticketing System) in Microsoft Azure :

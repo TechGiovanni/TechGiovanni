@@ -69,15 +69,15 @@
   <br>
   -->
 <br>
- <li>
+ <!--<li>
     <b>(Active Directory Labs) :</b>
     <ul dir="auto">
        <p>Microsof 365 Endpoint Administrator - Hybrid Cloud Infrastructure:  
           <a href=""></a>
             <ul>
-             <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a></li>
+             <li><a href="https://github.com/TechGiovanni/Microsoft-365-EndPoint-Administrator-EntraID-Intune-AutoPilot">Implementing EntraID, Intune, Autopilot, and endpoint security</a>            </li>
             </ul>
-    </li>
+    </li>-->
     </p>
       <p>Active Directory, Cisco router and a Security Operation Center:
           <ul>
